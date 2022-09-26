@@ -1,4 +1,4 @@
-# clustering_algorithms
+# clustering_algorithms Homework 1 for CSE 6740
 ```
 Contains two algorithms for clustering: kmeans and kmedoids
 Input
