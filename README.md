@@ -1,4 +1,5 @@
 # clustering_algorithms
+```
 Contains two algorithms for clustering: kmeans and kmedoids
 Input
 • pixels: the input image representation. Each row contains one data point (pixel). For
@@ -15,3 +16,4 @@ be a column vector with size(pixels, 1) elements. Start from 0 if you are using 
 centroid corresponds to the representative color of each cluster. The output should be a
 matrix with K rows and 3 columns. The range of values should be [0, 255], possibly floating
 point numbers.
+```
